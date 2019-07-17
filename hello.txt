@@ -3,3 +3,6 @@ Hello GitHub
 First push is successful
 
 I am master
+
+Hi this is branchA code not in master branch ... bye
+
