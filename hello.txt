@@ -1,3 +1,5 @@
 Hello GitHub
 
 First push is successful
+
+Hi this is branchA code not in master branch ... bye
