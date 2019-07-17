@@ -6,3 +6,4 @@ I am master
 
 Hi this is branchA code not in master branch ... bye
 
+Hello I Am in branchB bye ... happy coding
